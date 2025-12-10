@@ -91,4 +91,4 @@ Recommended way to deploy: **Cloudflare Pages**
 
 ## 📄 License
 
-[MIT License](LICENSE)
+[MIT License](https://github.com/atpx4869/academic-doc-generator/blob/main/LICENSE)
